@@ -1,0 +1,12 @@
+title: Keyblade Missing Ache V3 over Hero's Crest
+originalAuthor: K3Dvrk05
+description: Custom Missing Ache V3 Keyblade 3D Model Over Hero's Crest
+assets:
+ - name: obj/W_EX010_50.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX010_50.mdlx
+ - name: obj/W_EX010_50.a.fm
+   method: copy
+   source:
+     - name: obj/W_EX010_50.a.fm
